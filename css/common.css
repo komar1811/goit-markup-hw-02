@@ -9,11 +9,6 @@ body {
 button {
   cursor: pointer;
   letter-spacing: 0.04em;
-  background-color: #4d5ae5;
-}
-
-button:hover {
-  background-color: #404bbf;
 }
 
 h1 {
