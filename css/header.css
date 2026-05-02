@@ -1,13 +1,13 @@
 .nav-element {
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.02em;
-  font-size: 16px;
 }
 
 .nav-element-link {
   text-decoration: none;
   color: #2e2f42;
+  letter-spacing: 0.02em;
+  font-size: 16px;
 }
 
 .nav-element-link:hover {
@@ -20,13 +20,13 @@
 
 .address-element {
   line-height: 1.5;
-  letter-spacing: 0.02em;
-  font-size: 16px;
 }
 
 .address-element-link {
   text-decoration: none;
   color: #434455;
+  letter-spacing: 0.02em;
+  font-size: 16px;
 }
 
 .address-element-link:hover {
