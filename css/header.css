@@ -1,0 +1,21 @@
+.nav-element {
+  font-weight: 500;
+}
+
+.nav-element-link {
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+.nav-element-link:hover {
+  color: #404bbf;
+}
+
+.address-element-link {
+  text-decoration: none;
+  color: #434455;
+}
+
+.address-element-link:hover {
+  color: #404bbf;
+}

@@ -1,0 +1,12 @@
+#hero {
+  background-color: #2e2f42;
+  color: #ffffff;
+}
+
+.hero-title {
+  text-align: center;
+}
+
+.hero-button {
+  color: inherit;
+}
