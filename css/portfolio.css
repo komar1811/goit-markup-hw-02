@@ -1,3 +1,9 @@
 .portfolio-title {
   text-align: center;
+  color: #2e2f42;
+  line-height: 1.11;
+}
+
+.portfolio-element-text {
+  line-height: 1.2;
 }

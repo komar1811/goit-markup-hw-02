@@ -1,5 +1,8 @@
 .nav-element {
   font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
 }
 
 .nav-element-link {
@@ -11,11 +14,25 @@
   color: #404bbf;
 }
 
+.nav-element-link:focus {
+  color: #404bbf;
+}
+
+.address-element {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+}
+
 .address-element-link {
   text-decoration: none;
   color: #434455;
 }
 
 .address-element-link:hover {
+  color: #404bbf;
+}
+
+.address-element-link:focus {
   color: #404bbf;
 }

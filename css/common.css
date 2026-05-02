@@ -1,13 +1,14 @@
 body {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
+  background-color: #fff;
 }
 
 button {
   cursor: pointer;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
 }
 
@@ -29,13 +30,15 @@ h2 {
 h3 {
   font-weight: 500;
   font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
 }
 
 a {
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   font-size: 12px;
   text-decoration: underline;
-  line-height: 1.333;
+  line-height: 1.5;
 }
 
 .logo {
@@ -43,8 +46,8 @@ a {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16666666667;
-  letter-spacing: 3%;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
   color: #2e2f42;
   text-decoration: none;
 }
@@ -55,4 +58,8 @@ a {
 
 ul {
   list-style-type: none;
+}
+
+address {
+  font-style: normal;
 }
